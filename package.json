@@ -1,0 +1,24 @@
+{
+  "name": "casino-client",
+  "version": "1.9.0",
+  "description": "Casino Slots",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "ajax",
+    "nodejs",
+    "php",
+    "html5",
+    "css3",
+    "bootstrap"
+  ],
+  "author": "Georgs Jegers",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.0.0-beta1",
+    "jquery": "^3.5.1"
+  }
+}
