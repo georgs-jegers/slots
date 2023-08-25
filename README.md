@@ -35,7 +35,7 @@ This is a simple slot machine game that allows players to bet, spin the reels, a
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/simple-slot-machine.git
+   git clone https://github.com/georgs-jegers/slots.git
 
 ## Dependencies
 
